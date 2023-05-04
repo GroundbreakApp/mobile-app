@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1086289607410",
+    "project_id": "ground-break",
+    "storage_bucket": "ground-break.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086289607410:android:fe593a94ef22604946ae6b",
+        "android_client_info": {
+          "package_name": "com.parrotteam.groundbreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086289607410-gc40aotb8hakujt1ean5h0is64hhk22t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parrotteam.groundbreak",
+            "certificate_hash": "604249674601c6ceea3f85c5ee2599cf79e2980c"
+          }
+        },
+        {
+          "client_id": "1086289607410-tamffdk9llrjl00t6q2rhmar5tvichhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCerGF2ZeHs18-9TnEJH-_JAix2qwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086289607410-tamffdk9llrjl00t6q2rhmar5tvichhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086289607410-0fqovvuebqpibsollumdfrccm2tkg5vv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parrotteam.groundbreak"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086289607410:android:271c72112e359a8e46ae6b",
+        "android_client_info": {
+          "package_name": "com.parrotteam.groundbreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086289607410-tamffdk9llrjl00t6q2rhmar5tvichhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCerGF2ZeHs18-9TnEJH-_JAix2qwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086289607410-tamffdk9llrjl00t6q2rhmar5tvichhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086289607410-0fqovvuebqpibsollumdfrccm2tkg5vv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parrotteam.groundbreak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
